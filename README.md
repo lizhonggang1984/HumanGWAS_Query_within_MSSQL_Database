@@ -1,0 +1,1 @@
+# HumanGWAS_Query_within_MSSQL_Database
